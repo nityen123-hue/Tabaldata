@@ -32,7 +32,7 @@ function App() {
         <h2 className="text-center mb-3">Data of Employee</h2>
         <div className="table-responsive">
           <table className="table table-bordered table-striped table-hover align-middle text-center">
-            <thead className="table-dark">
+            <thead className="table-primary">
               <tr>
                 <th>EMPLOYEE ID</th>
                 <th>Name</th>
