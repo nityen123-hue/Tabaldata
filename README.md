@@ -48,20 +48,21 @@ The application divides employee records into multiple pages.
 
 By default:
 
-```text
+text
 15 employees per page
-```
+
 
 Users can change the number of records per page to:
 
-```text
+text
 15
 30
 45
 60
 75
 100
-```
+
+
 
 
 ## 🎥 Video 
@@ -69,6 +70,8 @@ Users can change the number of records per page to:
 
 ## Screen sort
 [Screen sort](https://drive.google.com/file/d/1I6-WXpUf75VHjJfVnb6g86i60jjYLk-L/view?usp=sharing)
+
+
 
 ### 3. Previous and Next Buttons
 
